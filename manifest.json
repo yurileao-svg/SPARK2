@@ -1,0 +1,26 @@
+{
+  "name": "Spark \u2014 Do digital ao real",
+  "short_name": "Spark",
+  "description": "Conex\u00f5es com profundidade \u2014 do digital ao real",
+  "start_url": "/SPARK2/index.html",
+  "scope": "/SPARK2/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#F0620A",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/SPARK2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/SPARK2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
